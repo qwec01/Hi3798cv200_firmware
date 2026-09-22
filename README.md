@@ -33,7 +33,7 @@ sudo bash /tmp/install-dvbip-firmware.sh --force-config
 | `hisilicon/histb-hevc-cabac.bin` | Hi3798CV200 HEVC CABAC 微码 |
 | `mxl214/mxl214.fw` | MaxLinear MxL214 DVB-C 前端固件 |
 | `mxl214/nvram50.bin` | MaxLinear MxL214 参数/NVRAM 数据 |
-| `oscam/oscam` | 静态链接的 AArch64 OSCam 主程序 |
+| `oscam/oscam` | 静态链接的 AArch64 OSCam 主程序, WebUI端口8888 |
 | `oscam/config/oscam.conf` | OSCam 全局和 DVBAPI 模板 |
 | `oscam/config/oscam.dvbapi` | 公共 DVBAPI 规则占位模板 |
 | `oscam/config/oscam.server` | `ttySCI0` 内置读卡器模板 |
